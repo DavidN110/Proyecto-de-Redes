@@ -1,0 +1,10 @@
+pandas
+joblib
+scikit-learn
+matplotlib
+folium
+openpyxl
+fpdf
+streamlit
+streamlit-folium
+networkx

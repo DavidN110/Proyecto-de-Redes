@@ -9,6 +9,7 @@ Este proyecto simula una red de conectividad rural resiliente usando inteligenci
 - 📁 Exportación de datos a CSV, Excel y PDF
 - 🗺️ Visualización con NetworkX y mapas interactivos (Folium)
 
+[![PDF](https://img.shields.io/badge/Informe-PDF-red)](/PROYECTO REDES.pdf)
 ---
 
 ## 📦 Estructura del proyecto

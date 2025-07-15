@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+recursos/*.csv
+recursos/*.xlsx
+recursos/*.pdf
+recursos/*.pkl

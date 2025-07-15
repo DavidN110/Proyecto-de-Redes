@@ -436,3 +436,225 @@
 1,Nodo D,Activo,75,100.0,Nodo C|Nodo E
 1,Nodo E,Activo,31,100.0,Nodo D|Nodo F
 1,Nodo F,Activo,69,100.0,Nodo E|Nodo A
+1,Nodo A,Activo,92,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,25,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,73,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,68,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,24,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,34,100.0,Nodo E|Nodo A
+2,Nodo A,Activo,31,100.0,Nodo B|Nodo F
+2,Nodo B,Inactivo,87,50.0,Nodo A|Nodo C
+2,Nodo C,Activo,21,100.0,Nodo D
+2,Nodo D,Activo,31,100.0,Nodo C|Nodo E
+2,Nodo E,Inactivo,57,50.0,Nodo D|Nodo F
+2,Nodo F,Activo,30,100.0,Nodo A
+3,Nodo A,Activo,23,100.0,Nodo F
+3,Nodo B,Inactivo,94,33.33,Nodo A|Nodo C
+3,Nodo C,Activo,37,100.0,Nodo D
+3,Nodo D,Inactivo,39,66.67,Nodo C
+3,Nodo E,Activo,98,66.67,Nodo F
+3,Nodo F,Activo,99,100.0,Nodo E|Nodo A
+1,Nodo A,Activo,110,100.0
+1,Nodo B,Inactivo,118,0.0
+1,Nodo C,Inactivo,119,0.0
+1,Nodo D,Activo,104,100.0
+1,Nodo E,Activo,95,100.0
+1,Nodo F,Activo,67,100.0
+2,Nodo A,Inactivo,103,50.0
+2,Nodo B,Inactivo,28,0.0
+2,Nodo C,Activo,43,50.0
+2,Nodo D,Activo,85,100.0
+2,Nodo E,Activo,91,100.0
+2,Nodo F,Activo,46,100.0
+3,Nodo A,Activo,91,66.67
+3,Nodo B,Activo,72,33.33
+3,Nodo C,Inactivo,63,33.33
+3,Nodo D,Activo,23,100.0
+3,Nodo E,Activo,94,100.0
+3,Nodo F,Activo,105,100.0
+4,Nodo A,Activo,106,75.0
+4,Nodo B,Activo,43,50.0
+4,Nodo C,Inactivo,52,25.0
+4,Nodo D,Activo,46,100.0
+4,Nodo E,Activo,61,100.0
+4,Nodo F,Activo,89,100.0
+5,Nodo A,Activo,25,80.0
+5,Nodo B,Activo,22,60.0
+5,Nodo C,Inactivo,103,20.0
+5,Nodo D,Inactivo,105,80.0
+5,Nodo E,Activo,51,100.0
+5,Nodo F,Inactivo,62,80.0
+6,Nodo A,Activo,63,83.33
+6,Nodo B,Activo,48,66.67
+6,Nodo C,Activo,86,33.33
+6,Nodo D,Inactivo,35,66.67
+6,Nodo E,Activo,21,100.0
+6,Nodo F,Inactivo,61,66.67
+7,Nodo A,Activo,116,85.71
+7,Nodo B,Activo,58,71.43
+7,Nodo C,Activo,79,42.86
+7,Nodo D,Activo,71,71.43
+7,Nodo E,Activo,64,100.0
+7,Nodo F,Inactivo,71,57.14
+8,Nodo A,Activo,88,87.5
+8,Nodo B,Activo,104,75.0
+8,Nodo C,Activo,72,50.0
+8,Nodo D,Inactivo,32,62.5
+8,Nodo E,Activo,81,100.0
+8,Nodo F,Inactivo,64,50.0
+9,Nodo A,Inactivo,53,77.78
+9,Nodo B,Activo,105,77.78
+9,Nodo C,Activo,47,55.56
+9,Nodo D,Activo,56,66.67
+9,Nodo E,Activo,37,100.0
+9,Nodo F,Inactivo,77,44.44
+10,Nodo A,Activo,108,80.0
+10,Nodo B,Activo,48,80.0
+10,Nodo C,Activo,61,60.0
+10,Nodo D,Activo,49,70.0
+10,Nodo E,Activo,100,100.0
+10,Nodo F,Inactivo,56,40.0
+11,Nodo A,Activo,70,81.82
+11,Nodo B,Activo,62,81.82
+11,Nodo C,Activo,118,63.64
+11,Nodo D,Activo,112,72.73
+11,Nodo E,Activo,117,100.0
+11,Nodo F,Inactivo,75,36.36
+12,Nodo A,Activo,66,83.33
+12,Nodo B,Activo,66,83.33
+12,Nodo C,Activo,109,66.67
+12,Nodo D,Activo,113,75.0
+12,Nodo E,Inactivo,22,91.67
+12,Nodo F,Inactivo,83,33.33
+13,Nodo A,Activo,108,84.62
+13,Nodo B,Activo,24,84.62
+13,Nodo C,Activo,89,69.23
+13,Nodo D,Activo,117,76.92
+13,Nodo E,Inactivo,92,84.62
+13,Nodo F,Inactivo,111,30.77
+14,Nodo A,Activo,55,85.71
+14,Nodo B,Activo,113,85.71
+14,Nodo C,Activo,84,71.43
+14,Nodo D,Activo,61,78.57
+14,Nodo E,Inactivo,38,78.57
+14,Nodo F,Activo,42,35.71
+15,Nodo A,Activo,82,86.67
+15,Nodo B,Inactivo,106,80.0
+15,Nodo C,Inactivo,67,66.67
+15,Nodo D,Activo,96,80.0
+15,Nodo E,Inactivo,93,73.33
+15,Nodo F,Inactivo,120,33.33
+16,Nodo A,Activo,102,87.5
+16,Nodo B,Activo,64,81.25
+16,Nodo C,Inactivo,52,62.5
+16,Nodo D,Activo,94,81.25
+16,Nodo E,Activo,98,75.0
+16,Nodo F,Inactivo,58,31.25
+17,Nodo A,Inactivo,97,82.35
+17,Nodo B,Activo,71,82.35
+17,Nodo C,Inactivo,107,58.82
+17,Nodo D,Activo,69,82.35
+17,Nodo E,Activo,116,76.47
+17,Nodo F,Inactivo,53,29.41
+18,Nodo A,Inactivo,73,77.78
+18,Nodo B,Activo,49,83.33
+18,Nodo C,Inactivo,87,55.56
+18,Nodo D,Activo,91,83.33
+18,Nodo E,Activo,75,77.78
+18,Nodo F,Inactivo,112,27.78
+19,Nodo A,Inactivo,79,73.68
+19,Nodo B,Activo,30,84.21
+19,Nodo C,Inactivo,42,52.63
+19,Nodo D,Activo,100,84.21
+19,Nodo E,Activo,27,78.95
+19,Nodo F,Inactivo,34,26.32
+20,Nodo A,Inactivo,94,70.0
+20,Nodo B,Activo,95,85.0
+20,Nodo C,Inactivo,31,50.0
+20,Nodo D,Activo,62,85.0
+20,Nodo E,Activo,67,80.0
+20,Nodo F,Inactivo,98,25.0
+21,Nodo A,Inactivo,111,66.67
+21,Nodo B,Activo,47,85.71
+21,Nodo C,Inactivo,82,47.62
+21,Nodo D,Activo,44,85.71
+21,Nodo E,Activo,84,80.95
+21,Nodo F,Activo,101,28.57
+22,Nodo A,Inactivo,115,63.64
+22,Nodo B,Activo,26,86.36
+22,Nodo C,Inactivo,50,45.45
+22,Nodo D,Activo,96,86.36
+22,Nodo E,Activo,110,81.82
+22,Nodo F,Activo,105,31.82
+23,Nodo A,Activo,104,65.22
+23,Nodo B,Activo,48,86.96
+23,Nodo C,Inactivo,119,43.48
+23,Nodo D,Activo,91,86.96
+23,Nodo E,Activo,88,82.61
+23,Nodo F,Activo,21,34.78
+24,Nodo A,Activo,80,66.67
+24,Nodo B,Inactivo,82,83.33
+24,Nodo C,Inactivo,66,41.67
+24,Nodo D,Activo,103,87.5
+24,Nodo E,Activo,112,83.33
+24,Nodo F,Activo,47,37.5
+25,Nodo A,Activo,99,68.0
+25,Nodo B,Activo,115,84.0
+25,Nodo C,Activo,113,44.0
+25,Nodo D,Inactivo,62,84.0
+25,Nodo E,Activo,30,84.0
+25,Nodo F,Activo,82,40.0
+26,Nodo A,Activo,50,69.23
+26,Nodo B,Activo,24,84.62
+26,Nodo C,Activo,107,46.15
+26,Nodo D,Inactivo,71,80.77
+26,Nodo E,Activo,30,84.62
+26,Nodo F,Activo,92,42.31
+27,Nodo A,Activo,105,70.37
+27,Nodo B,Activo,38,85.19
+27,Nodo C,Activo,60,48.15
+27,Nodo D,Activo,116,81.48
+27,Nodo E,Inactivo,89,81.48
+27,Nodo F,Activo,119,44.44
+28,Nodo A,Activo,69,71.43
+28,Nodo B,Activo,23,85.71
+28,Nodo C,Activo,48,50.0
+28,Nodo D,Activo,115,82.14
+28,Nodo E,Activo,90,82.14
+28,Nodo F,Activo,23,46.43
+29,Nodo A,Activo,25,72.41
+29,Nodo B,Activo,89,86.21
+29,Nodo C,Activo,75,51.72
+29,Nodo D,Activo,26,82.76
+29,Nodo E,Activo,72,82.76
+29,Nodo F,Activo,45,48.28
+30,Nodo A,Activo,116,73.33
+30,Nodo B,Activo,78,86.67
+30,Nodo C,Activo,54,53.33
+30,Nodo D,Activo,38,83.33
+30,Nodo E,Activo,112,83.33
+30,Nodo F,Inactivo,51,46.67
+31,Nodo A,Activo,48,74.19
+31,Nodo B,Inactivo,86,83.87
+31,Nodo C,Activo,59,54.84
+31,Nodo D,Activo,23,83.87
+31,Nodo E,Activo,81,83.87
+31,Nodo F,Inactivo,78,45.16
+32,Nodo A,Inactivo,28,71.88
+32,Nodo B,Inactivo,75,81.25
+32,Nodo C,Inactivo,56,53.12
+32,Nodo D,Activo,93,84.38
+32,Nodo E,Activo,89,84.38
+32,Nodo F,Inactivo,55,43.75
+33,Nodo A,Inactivo,112,69.7
+33,Nodo B,Inactivo,74,78.79
+33,Nodo C,Inactivo,46,51.52
+33,Nodo D,Activo,62,84.85
+33,Nodo E,Activo,98,84.85
+33,Nodo F,Activo,59,45.45
+34,Nodo A,Inactivo,51,67.65
+34,Nodo B,Inactivo,96,76.47
+34,Nodo C,Inactivo,75,50.0
+34,Nodo D,Activo,43,85.29
+34,Nodo E,Activo,107,85.29
+34,Nodo F,Activo,43,47.06

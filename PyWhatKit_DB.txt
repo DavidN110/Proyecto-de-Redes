@@ -78,3 +78,508 @@ Time: 8:46
 Phone Number: +573112917428
 Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 117ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo B: Activo, Latencia: 28ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo C: Activo, Latencia: 107ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 98ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo E: Activo, Latencia: 263ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 64ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi
 --------------------
+Date: 16/7/2025
+Time: 10:4
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 211ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo B: Activo, Latencia: 42ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo C: Activo, Latencia: 148ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 58ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo E: Inactivo, Latencia: 282ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 25ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi
+--------------------
+Date: 16/7/2025
+Time: 10:54
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 263ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo B: Inactivo, Latencia: 92ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo C: Activo, Latencia: 279ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 38ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo E: Activo, Latencia: 164ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Inactivo, Latencia: 65ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi
+--------------------
+Date: 16/7/2025
+Time: 11:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 64ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 124ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 122ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 134ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 183ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 290ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:18
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 94ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 145ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 235ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 177ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 162ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 146ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:19
+Phone Number: +573112917428
+Message: 📡 Ciclo 2 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 47ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 156ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 191ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Inactivo, Latencia: 205ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 290ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 261ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:20
+Phone Number: +573112917428
+Message: 📡 Ciclo 3 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 28ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 115ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 257ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 140ms, Disp: 66.67%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 139ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Inactivo, Latencia: 260ms, Disp: 66.67%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:20
+Phone Number: +573112917428
+Message: 📡 Ciclo 4 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 31ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 215ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 160ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 142ms, Disp: 75.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 296ms, Disp: 75.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 281ms, Disp: 75.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:20
+Phone Number: +573112917428
+Message: 📡 Ciclo 5 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 97ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 247ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 296ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 169ms, Disp: 80.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 212ms, Disp: 60.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 259ms, Disp: 80.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:20
+Phone Number: +573112917428
+Message: 📡 Ciclo 6 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 73ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 259ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 218ms, Disp: 83.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Inactivo, Latencia: 119ms, Disp: 66.67%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 132ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 181ms, Disp: 83.33%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:20
+Phone Number: +573112917428
+Message: 📡 Ciclo 7 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 64ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 287ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 229ms, Disp: 71.43%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 272ms, Disp: 71.43%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 246ms, Disp: 42.86%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 298ms, Disp: 85.71%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:24
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 49ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 98ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 72ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 77ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 21ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 23ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:24
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 49ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 98ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 72ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 77ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 21ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 23ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:26
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 42ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 40ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 62ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 75ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 72ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 52ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:26
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 42ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 40ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 62ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 75ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 72ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 52ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:33
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 54ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 62ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 42ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 83ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 61ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 58ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:33
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 54ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 62ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 42ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 83ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 61ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 58ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:33
+Phone Number: +573112917428
+Message: 📡 Ciclo 2 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 91ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 145ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 240ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 196ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 257ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 213ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:33
+Phone Number: +573112917428
+Message: 📡 Ciclo 2 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 91ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 145ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 240ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 196ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 257ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 213ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:33
+Phone Number: +573112917428
+Message: 📡 Ciclo 3 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 89ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 187ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 154ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 280ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 167ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 227ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:33
+Phone Number: +573112917428
+Message: 📡 Ciclo 3 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 89ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 187ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 154ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 280ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 167ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 227ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:33
+Phone Number: +573112917428
+Message: 📡 Ciclo 4 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 97ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 215ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 188ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 292ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 232ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 203ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:33
+Phone Number: +573112917428
+Message: 📡 Ciclo 4 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 97ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 215ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 188ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 292ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 232ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 203ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:36
+Phone Number: +573112917428
+Message: 📡 Ciclo 5 - Estado de la red:🔹 Nodo A: Activo, Latencia: 54ms, Disp: 25.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 210ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 213ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 248ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 173ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 190ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:36
+Phone Number: +573112917428
+Message: 📡 Ciclo 5 - Estado de la red:🔹 Nodo A: Activo, Latencia: 54ms, Disp: 25.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 210ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 213ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 248ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 173ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 190ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:36
+Phone Number: +573112917428
+Message: 📡 Ciclo 6 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 97ms, Disp: 20.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 209ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 289ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 162ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 258ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 260ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:36
+Phone Number: +573112917428
+Message: 📡 Ciclo 6 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 97ms, Disp: 20.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 209ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 289ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 162ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 258ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 260ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:36
+Phone Number: +573112917428
+Message: 📡 Ciclo 7 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 57ms, Disp: 16.67%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 254ms, Disp: 83.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 200ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 186ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 270ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 290ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:36
+Phone Number: +573112917428
+Message: 📡 Ciclo 7 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 57ms, Disp: 16.67%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 254ms, Disp: 83.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 200ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 186ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 270ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 290ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:36
+Phone Number: +573112917428
+Message: 📡 Ciclo 8 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 55ms, Disp: 14.29%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 163ms, Disp: 71.43%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 220ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 292ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 263ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 129ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:36
+Phone Number: +573112917428
+Message: 📡 Ciclo 8 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 55ms, Disp: 14.29%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 163ms, Disp: 71.43%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 220ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 292ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 263ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 129ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:36
+Phone Number: +573112917428
+Message: 📡 Ciclo 9 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 69ms, Disp: 12.5%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 178ms, Disp: 62.5%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 172ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 132ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 254ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Inactivo, Latencia: 240ms, Disp: 87.5%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:36
+Phone Number: +573112917428
+Message: 📡 Ciclo 9 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 69ms, Disp: 12.5%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 178ms, Disp: 62.5%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 172ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 132ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 254ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Inactivo, Latencia: 240ms, Disp: 87.5%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:38
+Phone Number: +573112917428
+Message: 📡 Ciclo 10 - Estado de la red:🔹 Nodo A: Activo, Latencia: 89ms, Disp: 22.22%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 279ms, Disp: 55.56%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 223ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 105ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 297ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 115ms, Disp: 88.89%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:38
+Phone Number: +573112917428
+Message: 📡 Ciclo 10 - Estado de la red:🔹 Nodo A: Activo, Latencia: 89ms, Disp: 22.22%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 279ms, Disp: 55.56%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 223ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 105ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 297ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 115ms, Disp: 88.89%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:39
+Phone Number: +573112917428
+Message: 📡 Ciclo 11 - Estado de la red:🔹 Nodo A: Activo, Latencia: 30ms, Disp: 30.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 178ms, Disp: 60.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 256ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 188ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 117ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 210ms, Disp: 90.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:39
+Phone Number: +573112917428
+Message: 📡 Ciclo 11 - Estado de la red:🔹 Nodo A: Activo, Latencia: 30ms, Disp: 30.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 178ms, Disp: 60.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 256ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 188ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 117ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 210ms, Disp: 90.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:40
+Phone Number: +573112917428
+Message: 📡 Ciclo 12 - Estado de la red:🔹 Nodo A: Activo, Latencia: 78ms, Disp: 36.36%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 122ms, Disp: 63.64%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 103ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 272ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 196ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 124ms, Disp: 90.91%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:40
+Phone Number: +573112917428
+Message: 📡 Ciclo 12 - Estado de la red:🔹 Nodo A: Activo, Latencia: 78ms, Disp: 36.36%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 122ms, Disp: 63.64%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 103ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 272ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 196ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 124ms, Disp: 90.91%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:41
+Phone Number: +573112917428
+Message: 📡 Ciclo 13 - Estado de la red:🔹 Nodo A: Activo, Latencia: 48ms, Disp: 41.67%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 258ms, Disp: 66.67%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 264ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Inactivo, Latencia: 159ms, Disp: 91.67%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 154ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 283ms, Disp: 91.67%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:41
+Phone Number: +573112917428
+Message: 📡 Ciclo 13 - Estado de la red:🔹 Nodo A: Activo, Latencia: 48ms, Disp: 41.67%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 258ms, Disp: 66.67%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 264ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Inactivo, Latencia: 159ms, Disp: 91.67%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 154ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 283ms, Disp: 91.67%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:48
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 46ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 96ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 20ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 78ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 45ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 58ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:50
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 81ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 25ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 42ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 96ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 98ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 95ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:50
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 81ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 25ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 42ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 96ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 98ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 95ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:52
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 83ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 49ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 46ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 55ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 30ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 36ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:52
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 83ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 49ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 46ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 55ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 30ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 36ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:54
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 64ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 96ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 70ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 94ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 34ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 76ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:54
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 64ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 96ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 70ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 94ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 34ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 76ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:56
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 28ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 50ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 94ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 66ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 79ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 35ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 11:56
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 28ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 50ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 94ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 66ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 79ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 35ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:0
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 60ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 96ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 69ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 82ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 51ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 80ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:16
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 20ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 43ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 53ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 61ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 34ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 80ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:30
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 83ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 45ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 51ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 31ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 96ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 27ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:30
+Phone Number: +573112917428
+Message: 📡 Ciclo 2 - Estado de la red:🔹 Nodo A: Activo, Latencia: 28ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 295ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 197ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 171ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 271ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 267ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:30
+Phone Number: +573112917428
+Message: 📡 Ciclo 3 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 89ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 266ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 136ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 280ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 285ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 285ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 2 - Estado de la red:🔹 Nodo A: Activo, Latencia: 54ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 164ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 163ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 155ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 236ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 184ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 63ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 60ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 39ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 26ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 97ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 89ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 3 - Estado de la red:🔹 Nodo A: Activo, Latencia: 44ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 218ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 220ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 247ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 284ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 174ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 4 - Estado de la red:🔹 Nodo A: Activo, Latencia: 51ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 237ms, Disp: 66.67%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 255ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 209ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 235ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 101ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 5 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 39ms, Disp: 75.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 100ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 143ms, Disp: 75.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 275ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 134ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 172ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 6 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 65ms, Disp: 60.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 262ms, Disp: 40.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 228ms, Disp: 80.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 196ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 174ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 190ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 7 - Estado de la red:🔹 Nodo A: Activo, Latencia: 85ms, Disp: 66.67%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 225ms, Disp: 33.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 246ms, Disp: 83.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 168ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 197ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 108ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 8 - Estado de la red:🔹 Nodo A: Activo, Latencia: 30ms, Disp: 71.43%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 246ms, Disp: 28.57%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 107ms, Disp: 85.71%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 126ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 276ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 298ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 9 - Estado de la red:🔹 Nodo A: Activo, Latencia: 82ms, Disp: 75.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 296ms, Disp: 25.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 189ms, Disp: 87.5%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Inactivo, Latencia: 219ms, Disp: 87.5%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 164ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Inactivo, Latencia: 201ms, Disp: 87.5%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 10 - Estado de la red:🔹 Nodo A: Activo, Latencia: 68ms, Disp: 77.78%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 221ms, Disp: 33.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 177ms, Disp: 77.78%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 119ms, Disp: 88.89%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 151ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 208ms, Disp: 88.89%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 11 - Estado de la red:🔹 Nodo A: Activo, Latencia: 44ms, Disp: 80.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 189ms, Disp: 40.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 123ms, Disp: 80.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 203ms, Disp: 90.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 157ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 121ms, Disp: 90.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 12 - Estado de la red:🔹 Nodo A: Activo, Latencia: 53ms, Disp: 81.82%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 298ms, Disp: 45.45%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 182ms, Disp: 81.82%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Inactivo, Latencia: 193ms, Disp: 81.82%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 176ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 189ms, Disp: 90.91%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 13 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 53ms, Disp: 75.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 281ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 267ms, Disp: 75.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 155ms, Disp: 83.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 188ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 131ms, Disp: 91.67%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 14 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 96ms, Disp: 69.23%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 110ms, Disp: 46.15%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 245ms, Disp: 69.23%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 106ms, Disp: 84.62%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 175ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 227ms, Disp: 92.31%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 15 - Estado de la red:🔹 Nodo A: Activo, Latencia: 65ms, Disp: 71.43%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 164ms, Disp: 42.86%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 205ms, Disp: 64.29%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 217ms, Disp: 85.71%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 237ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 107ms, Disp: 92.86%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 16 - Estado de la red:🔹 Nodo A: Activo, Latencia: 77ms, Disp: 73.33%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 287ms, Disp: 40.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 245ms, Disp: 66.67%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 140ms, Disp: 86.67%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 257ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 105ms, Disp: 93.33%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 18 - Estado de la red:🔹 Nodo A: Activo, Latencia: 26ms, Disp: 76.47%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 137ms, Disp: 35.29%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 275ms, Disp: 70.59%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 204ms, Disp: 87.5%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 123ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 256ms, Disp: 93.75%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 20 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 72ms, Disp: 72.22%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 137ms, Disp: 35.29%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 275ms, Disp: 70.59%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 266ms, Disp: 88.24%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 122ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 178ms, Disp: 94.12%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 19 - Estado de la red:🔹 Nodo A: Activo, Latencia: 26ms, Disp: 76.47%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 137ms, Disp: 35.29%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 275ms, Disp: 70.59%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 266ms, Disp: 88.24%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 122ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 178ms, Disp: 94.12%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 17 - Estado de la red:🔹 Nodo A: Activo, Latencia: 38ms, Disp: 75.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 159ms, Disp: 37.5%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 204ms, Disp: 68.75%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 204ms, Disp: 87.5%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 123ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 256ms, Disp: 93.75%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 21 - Estado de la red:🔹 Nodo A: Activo, Latencia: 70ms, Disp: 73.68%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 153ms, Disp: 36.84%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 173ms, Disp: 72.22%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 154ms, Disp: 88.89%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 223ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 178ms, Disp: 94.12%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 23 - Estado de la red:🔹 Nodo A: Activo, Latencia: 89ms, Disp: 75.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 153ms, Disp: 36.84%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 263ms, Disp: 68.42%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 194ms, Disp: 89.47%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 298ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 244ms, Disp: 94.44%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 22 - Estado de la red:🔹 Nodo A: Activo, Latencia: 89ms, Disp: 75.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 153ms, Disp: 36.84%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 263ms, Disp: 68.42%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 194ms, Disp: 89.47%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 298ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 244ms, Disp: 94.44%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 24 - Estado de la red:🔹 Nodo A: Activo, Latencia: 89ms, Disp: 75.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 271ms, Disp: 35.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 263ms, Disp: 68.42%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 194ms, Disp: 89.47%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 298ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 230ms, Disp: 94.74%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 12:32
+Phone Number: +573112917428
+Message: 📡 Ciclo 25 - Estado de la red:🔹 Nodo A: Activo, Latencia: 24ms, Disp: 79.17%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 273ms, Disp: 33.33%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 260ms, Disp: 70.83%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 198ms, Disp: 91.67%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 105ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Inactivo, Latencia: 278ms, Disp: 91.67%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:15
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 47ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 73ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 35ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 56ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 84ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 24ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:15
+Phone Number: +573112917428
+Message: 📡 Ciclo 2 - Estado de la red:🔹 Nodo A: Activo, Latencia: 90ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 240ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 229ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 186ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 275ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 203ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:15
+Phone Number: +573112917428
+Message: 📡 Ciclo 3 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 66ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 270ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 253ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 277ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 121ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 299ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:15
+Phone Number: +573112917428
+Message: 📡 Ciclo 4 - Estado de la red:🔹 Nodo A: Inactivo, Latencia: 24ms, Disp: 33.33%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 200ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 112ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 117ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 228ms, Disp: 33.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 139ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:15
+Phone Number: +573112917428
+Message: 📡 Ciclo 5 - Estado de la red:🔹 Nodo A: Activo, Latencia: 39ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 203ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 142ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 212ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 186ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 120ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:15
+Phone Number: +573112917428
+Message: 📡 Ciclo 6 - Estado de la red:🔹 Nodo A: Activo, Latencia: 63ms, Disp: 60.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 263ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 145ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 179ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 121ms, Disp: 60.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 107ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 34ms, Disp: 100%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 61ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 90ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 39ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 89ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 74ms, Disp: 100%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 2 - Estado de la red:🔹 Nodo A: Activo, Latencia: 89ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 262ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 259ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 220ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 109ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Inactivo, Latencia: 180ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 3 - Estado de la red:🔹 Nodo A: Activo, Latencia: 23ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 210ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 112ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 124ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 245ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Inactivo, Latencia: 141ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 4 - Estado de la red:🔹 Nodo A: Activo, Latencia: 87ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 267ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 164ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 103ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 300ms, Disp: 33.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Inactivo, Latencia: 277ms, Disp: 0.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 5 - Estado de la red:🔹 Nodo A: Activo, Latencia: 73ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 237ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 190ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 210ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 250ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 252ms, Disp: 25.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 6 - Estado de la red:🔹 Nodo A: Activo, Latencia: 79ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 250ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 262ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Inactivo, Latencia: 277ms, Disp: 80.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 138ms, Disp: 60.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 127ms, Disp: 40.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 7 - Estado de la red:🔹 Nodo A: Activo, Latencia: 65ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 110ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 295ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 293ms, Disp: 83.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 216ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 266ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 8 - Estado de la red:🔹 Nodo A: Activo, Latencia: 37ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 262ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 288ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 196ms, Disp: 85.71%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 150ms, Disp: 42.86%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Inactivo, Latencia: 296ms, Disp: 42.86%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 9 - Estado de la red:🔹 Nodo A: Activo, Latencia: 87ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 242ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 238ms, Disp: 87.5%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 213ms, Disp: 87.5%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 191ms, Disp: 37.5%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 208ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 10 - Estado de la red:🔹 Nodo A: Activo, Latencia: 44ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 254ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 280ms, Disp: 77.78%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Inactivo, Latencia: 270ms, Disp: 77.78%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 119ms, Disp: 33.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 137ms, Disp: 55.56%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:17
+Phone Number: +573112917428
+Message: 📡 Ciclo 11 - Estado de la red:🔹 Nodo A: Activo, Latencia: 89ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 140ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 178ms, Disp: 70.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Inactivo, Latencia: 140ms, Disp: 70.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 204ms, Disp: 40.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 224ms, Disp: 60.0%, Fallo IA: ✅, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:36
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 40ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 116ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 277ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 152ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 294ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 108ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:44
+Phone Number: +573112917428
+Message: 📡 Ciclo 2 - Estado de la red:🔹 Nodo A: Activo, Latencia: 31ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 255ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 138ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 170ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Inactivo, Latencia: 280ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 219ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:48
+Phone Number: +573112917428
+Message: 📡 Ciclo 1 - Estado de la red:🔹 Nodo A: Activo, Latencia: 92ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Activo, Latencia: 209ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo C: Activo, Latencia: 174ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 217ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 266ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 249ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:50
+Phone Number: +573112917428
+Message: 📡 Ciclo 2 - Estado de la red:🔹 Nodo A: Activo, Latencia: 68ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 199ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 266ms, Disp: 50.0%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 140ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 102ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 262ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------
+Date: 16/7/2025
+Time: 13:51
+Phone Number: +573112917428
+Message: 📡 Ciclo 3 - Estado de la red:🔹 Nodo A: Activo, Latencia: 41ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: WiFi🔹 Nodo B: Inactivo, Latencia: 155ms, Disp: 33.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo C: Inactivo, Latencia: 243ms, Disp: 33.33%, Fallo IA: ✅, Tecnología: LoRaWAN🔹 Nodo D: Activo, Latencia: 188ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo E: Activo, Latencia: 175ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN🔹 Nodo F: Activo, Latencia: 100ms, Disp: 100.0%, Fallo IA: ❌, Tecnología: LoRaWAN
+--------------------

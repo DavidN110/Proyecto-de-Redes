@@ -796,3 +796,561 @@
 1,Nodo D,Activo,98,100.0,Nodo C|Nodo E
 1,Nodo E,Activo,263,100.0,Nodo D|Nodo F
 1,Nodo F,Activo,64,100.0,Nodo E|Nodo A
+1,Nodo A,Activo,211,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,42,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,148,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,58,100.0,Nodo C|Nodo E
+1,Nodo E,Inactivo,282,0.0,Nodo D|Nodo F
+1,Nodo F,Activo,25,100.0,Nodo A
+1,Nodo A,Activo,263,100.0,Nodo B|Nodo F
+1,Nodo B,Inactivo,92,0.0,Nodo A|Nodo C
+1,Nodo C,Activo,279,100.0,Nodo D
+1,Nodo D,Activo,38,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,164,100.0,Nodo D|Nodo F
+1,Nodo F,Inactivo,65,0.0,Nodo E|Nodo A
+1,Nodo A,Activo,64,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,124,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,122,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,134,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,183,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,290,100.0,Nodo E|Nodo A
+1,Nodo A,Inactivo,94,0.0,Nodo B|Nodo F
+1,Nodo B,Activo,145,100.0,Nodo C
+1,Nodo C,Activo,235,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,177,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,162,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,146,100.0,Nodo E
+2,Nodo A,Inactivo,47,0.0,Nodo B|Nodo F
+2,Nodo B,Activo,156,100.0,Nodo C
+2,Nodo C,Activo,191,100.0,Nodo B|Nodo D
+2,Nodo D,Inactivo,205,50.0,Nodo C|Nodo E
+2,Nodo E,Activo,290,100.0,Nodo F
+2,Nodo F,Activo,261,100.0,Nodo E
+3,Nodo A,Inactivo,28,0.0,Nodo B|Nodo F
+3,Nodo B,Activo,115,100.0,Nodo C
+3,Nodo C,Activo,257,100.0,Nodo B
+3,Nodo D,Activo,140,66.67,Nodo C|Nodo E
+3,Nodo E,Activo,139,100.0,Nodo D|Nodo F
+3,Nodo F,Inactivo,260,66.67,Nodo E
+4,Nodo A,Inactivo,31,0.0,Nodo B
+4,Nodo B,Activo,215,100.0,Nodo C
+4,Nodo C,Activo,160,100.0,Nodo B|Nodo D
+4,Nodo D,Activo,142,75.0,Nodo C|Nodo E
+4,Nodo E,Inactivo,296,75.0,Nodo D
+4,Nodo F,Activo,281,75.0,
+5,Nodo A,Inactivo,97,0.0,Nodo B|Nodo F
+5,Nodo B,Activo,247,100.0,Nodo C
+5,Nodo C,Activo,296,100.0,Nodo B|Nodo D
+5,Nodo D,Activo,169,80.0,Nodo C
+5,Nodo E,Inactivo,212,60.0,Nodo D|Nodo F
+5,Nodo F,Activo,259,80.0,
+6,Nodo A,Inactivo,73,0.0,Nodo B|Nodo F
+6,Nodo B,Activo,259,100.0,Nodo C
+6,Nodo C,Inactivo,218,83.33,Nodo B|Nodo D
+6,Nodo D,Inactivo,119,66.67,
+6,Nodo E,Inactivo,132,50.0,Nodo F
+6,Nodo F,Activo,181,83.33,
+7,Nodo A,Inactivo,64,0.0,Nodo B|Nodo F
+7,Nodo B,Activo,287,100.0,
+7,Nodo C,Inactivo,229,71.43,Nodo B
+7,Nodo D,Activo,272,71.43,
+7,Nodo E,Inactivo,246,42.86,Nodo D|Nodo F
+7,Nodo F,Activo,298,85.71,
+1,Nodo A,Activo,55,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,160,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,162,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,294,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,107,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,292,100.0,Nodo E|Nodo A
+1,Nodo A,Activo,66,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,213,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,147,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,197,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,191,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,170,100.0,Nodo E|Nodo A
+1,Nodo A,Inactivo,91,0.0,Nodo B|Nodo F
+1,Nodo B,Activo,145,100.0,Nodo C
+1,Nodo C,Activo,240,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,196,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,257,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,213,100.0,Nodo E
+2,Nodo A,Inactivo,89,0.0,Nodo B|Nodo F
+2,Nodo B,Activo,187,100.0,Nodo C
+2,Nodo C,Activo,154,100.0,Nodo B|Nodo D
+2,Nodo D,Activo,280,100.0,Nodo C|Nodo E
+2,Nodo E,Activo,167,100.0,Nodo D|Nodo F
+2,Nodo F,Activo,227,100.0,Nodo E
+3,Nodo A,Inactivo,97,0.0,Nodo B|Nodo F
+3,Nodo B,Activo,215,100.0,Nodo C
+3,Nodo C,Activo,188,100.0,Nodo B|Nodo D
+3,Nodo D,Activo,292,100.0,Nodo C|Nodo E
+3,Nodo E,Activo,232,100.0,Nodo D|Nodo F
+3,Nodo F,Activo,203,100.0,Nodo E
+4,Nodo A,Activo,54,25.0,Nodo B|Nodo F
+4,Nodo B,Activo,210,100.0,Nodo A|Nodo C
+4,Nodo C,Activo,213,100.0,Nodo B|Nodo D
+4,Nodo D,Activo,248,100.0,Nodo C|Nodo E
+4,Nodo E,Activo,173,100.0,Nodo D|Nodo F
+4,Nodo F,Activo,190,100.0,Nodo E|Nodo A
+5,Nodo A,Inactivo,97,20.0,Nodo B|Nodo F
+5,Nodo B,Activo,209,100.0,Nodo C
+5,Nodo C,Activo,289,100.0,Nodo B|Nodo D
+5,Nodo D,Activo,162,100.0,Nodo C|Nodo E
+5,Nodo E,Activo,258,100.0,Nodo D|Nodo F
+5,Nodo F,Activo,260,100.0,Nodo E
+6,Nodo A,Inactivo,57,16.67,Nodo B|Nodo F
+6,Nodo B,Inactivo,254,83.33,Nodo C
+6,Nodo C,Activo,200,100.0,Nodo D
+6,Nodo D,Activo,186,100.0,Nodo C|Nodo E
+6,Nodo E,Activo,270,100.0,Nodo D|Nodo F
+6,Nodo F,Activo,290,100.0,Nodo E
+7,Nodo A,Inactivo,55,14.29,Nodo F
+7,Nodo B,Inactivo,163,71.43,Nodo C
+7,Nodo C,Activo,220,100.0,Nodo D
+7,Nodo D,Activo,292,100.0,Nodo C|Nodo E
+7,Nodo E,Activo,263,100.0,Nodo D|Nodo F
+7,Nodo F,Activo,129,100.0,Nodo E
+8,Nodo A,Inactivo,69,12.5,Nodo F
+8,Nodo B,Inactivo,178,62.5,Nodo C
+8,Nodo C,Activo,172,100.0,Nodo D
+8,Nodo D,Activo,132,100.0,Nodo C|Nodo E
+8,Nodo E,Activo,254,100.0,Nodo D|Nodo F
+8,Nodo F,Inactivo,240,87.5,Nodo E
+9,Nodo A,Activo,89,22.22,
+9,Nodo B,Inactivo,279,55.56,Nodo A|Nodo C
+9,Nodo C,Activo,223,100.0,Nodo D
+9,Nodo D,Activo,105,100.0,Nodo C|Nodo E
+9,Nodo E,Activo,297,100.0,Nodo D
+9,Nodo F,Activo,115,88.89,Nodo E|Nodo A
+10,Nodo A,Activo,30,30.0,Nodo F
+10,Nodo B,Activo,178,60.0,Nodo A|Nodo C
+10,Nodo C,Activo,256,100.0,Nodo B|Nodo D
+10,Nodo D,Activo,188,100.0,Nodo C|Nodo E
+10,Nodo E,Activo,117,100.0,Nodo D|Nodo F
+10,Nodo F,Activo,210,90.0,Nodo E|Nodo A
+11,Nodo A,Activo,78,36.36,Nodo B|Nodo F
+11,Nodo B,Activo,122,63.64,Nodo A|Nodo C
+11,Nodo C,Activo,103,100.0,Nodo B|Nodo D
+11,Nodo D,Activo,272,100.0,Nodo C|Nodo E
+11,Nodo E,Activo,196,100.0,Nodo D|Nodo F
+11,Nodo F,Activo,124,90.91,Nodo E|Nodo A
+12,Nodo A,Activo,48,41.67,Nodo B|Nodo F
+12,Nodo B,Activo,258,66.67,Nodo A|Nodo C
+12,Nodo C,Activo,264,100.0,Nodo B|Nodo D
+12,Nodo D,Inactivo,159,91.67,Nodo C|Nodo E
+12,Nodo E,Activo,154,100.0,Nodo F
+12,Nodo F,Activo,283,91.67,Nodo E|Nodo A
+13,Nodo A,Activo,71,46.15,Nodo B|Nodo F
+13,Nodo B,Inactivo,176,61.54,Nodo A|Nodo C
+13,Nodo C,Activo,238,100.0,
+13,Nodo D,Inactivo,136,84.62,Nodo C|Nodo E
+13,Nodo E,Inactivo,265,92.31,Nodo F
+13,Nodo F,Activo,161,92.31,Nodo A
+1,Nodo A,Inactivo,40,0.0,Nodo B|Nodo F
+1,Nodo B,Activo,188,100.0,Nodo C
+1,Nodo C,Activo,210,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,244,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,284,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,236,100.0,Nodo E
+1,Nodo A,Activo,81,100.0,Nodo B|Nodo F
+1,Nodo B,Inactivo,258,0.0,Nodo A|Nodo C
+1,Nodo C,Activo,226,100.0,Nodo D
+1,Nodo D,Activo,202,100.0,Nodo C|Nodo E
+1,Nodo E,Inactivo,134,0.0,Nodo D|Nodo F
+1,Nodo F,Activo,160,100.0,Nodo A
+1,Nodo A,Activo,89,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,229,100.0,Nodo A|Nodo C
+1,Nodo C,Inactivo,156,0.0,Nodo B|Nodo D
+1,Nodo D,Activo,215,100.0,Nodo E
+1,Nodo E,Activo,124,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,119,100.0,Nodo E|Nodo A
+1,Nodo A,Activo,56,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,231,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,158,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,293,100.0,Nodo C|Nodo E
+1,Nodo E,Inactivo,195,0.0,Nodo D|Nodo F
+1,Nodo F,Activo,126,100.0,Nodo A
+1,Nodo A,Activo,69,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,105,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,150,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,221,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,233,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,260,100.0,Nodo E|Nodo A
+1,Nodo A,Activo,65,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,242,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,173,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,284,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,194,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,129,100.0,Nodo E|Nodo A
+1,Nodo A,Activo,28,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,295,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,197,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,171,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,271,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,267,100.0,Nodo E|Nodo A
+2,Nodo A,Inactivo,89,50.0,Nodo B|Nodo F
+2,Nodo B,Activo,266,100.0,Nodo C
+2,Nodo C,Activo,136,100.0,Nodo B|Nodo D
+2,Nodo D,Activo,280,100.0,Nodo C|Nodo E
+2,Nodo E,Activo,285,100.0,Nodo D|Nodo F
+2,Nodo F,Activo,285,100.0,Nodo E
+3,Nodo A,Inactivo,89,33.33,Nodo B|Nodo F
+3,Nodo B,Activo,110,100.0,Nodo C
+3,Nodo C,Activo,166,100.0,Nodo B|Nodo D
+3,Nodo D,Activo,251,100.0,Nodo C|Nodo E
+3,Nodo E,Activo,151,100.0,Nodo D|Nodo F
+3,Nodo F,Activo,144,100.0,Nodo E
+1,Nodo A,Activo,54,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,164,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,163,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,155,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,236,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,184,100.0,Nodo E|Nodo A
+2,Nodo A,Activo,44,100.0,Nodo B|Nodo F
+2,Nodo B,Activo,218,100.0,Nodo A|Nodo C
+2,Nodo C,Activo,220,100.0,Nodo B|Nodo D
+2,Nodo D,Activo,247,100.0,Nodo C|Nodo E
+2,Nodo E,Activo,284,100.0,Nodo D|Nodo F
+2,Nodo F,Activo,174,100.0,Nodo E|Nodo A
+3,Nodo A,Activo,51,100.0,Nodo B|Nodo F
+3,Nodo B,Inactivo,237,66.67,Nodo A|Nodo C
+3,Nodo C,Activo,255,100.0,Nodo D
+3,Nodo D,Activo,209,100.0,Nodo C|Nodo E
+3,Nodo E,Activo,235,100.0,Nodo D|Nodo F
+3,Nodo F,Activo,101,100.0,Nodo E|Nodo A
+4,Nodo A,Inactivo,39,75.0,Nodo F
+4,Nodo B,Inactivo,100,50.0,Nodo C
+4,Nodo C,Inactivo,143,75.0,Nodo D
+4,Nodo D,Activo,275,100.0,Nodo E
+4,Nodo E,Activo,134,100.0,Nodo D|Nodo F
+4,Nodo F,Activo,172,100.0,Nodo E
+5,Nodo A,Inactivo,65,60.0,Nodo F
+5,Nodo B,Inactivo,262,40.0,
+5,Nodo C,Activo,228,80.0,Nodo D
+5,Nodo D,Activo,196,100.0,Nodo C|Nodo E
+5,Nodo E,Activo,174,100.0,Nodo D|Nodo F
+5,Nodo F,Activo,190,100.0,Nodo E
+6,Nodo A,Activo,85,66.67,Nodo F
+6,Nodo B,Inactivo,225,33.33,Nodo A|Nodo C
+6,Nodo C,Activo,246,83.33,Nodo D
+6,Nodo D,Activo,168,100.0,Nodo C|Nodo E
+6,Nodo E,Activo,197,100.0,Nodo D|Nodo F
+6,Nodo F,Activo,108,100.0,Nodo E|Nodo A
+7,Nodo A,Activo,30,71.43,Nodo F
+7,Nodo B,Inactivo,246,28.57,Nodo A|Nodo C
+7,Nodo C,Activo,107,85.71,Nodo D
+7,Nodo D,Activo,126,100.0,Nodo C|Nodo E
+7,Nodo E,Activo,276,100.0,Nodo D|Nodo F
+7,Nodo F,Activo,298,100.0,Nodo E|Nodo A
+8,Nodo A,Activo,82,75.0,Nodo F
+8,Nodo B,Inactivo,296,25.0,Nodo A|Nodo C
+8,Nodo C,Activo,189,87.5,Nodo D
+8,Nodo D,Inactivo,219,87.5,Nodo C|Nodo E
+8,Nodo E,Activo,164,100.0,Nodo F
+8,Nodo F,Inactivo,201,87.5,Nodo E|Nodo A
+9,Nodo A,Activo,68,77.78,
+9,Nodo B,Activo,221,33.33,Nodo A|Nodo C
+9,Nodo C,Inactivo,177,77.78,Nodo B
+9,Nodo D,Activo,119,88.89,Nodo E
+9,Nodo E,Activo,151,100.0,Nodo D
+9,Nodo F,Activo,208,88.89,Nodo E|Nodo A
+10,Nodo A,Activo,44,80.0,Nodo B|Nodo F
+10,Nodo B,Activo,189,40.0,Nodo A
+10,Nodo C,Activo,123,80.0,Nodo B|Nodo D
+10,Nodo D,Activo,203,90.0,Nodo C|Nodo E
+10,Nodo E,Activo,157,100.0,Nodo D|Nodo F
+10,Nodo F,Activo,121,90.0,Nodo E|Nodo A
+11,Nodo A,Activo,53,81.82,Nodo B|Nodo F
+11,Nodo B,Activo,298,45.45,Nodo A|Nodo C
+11,Nodo C,Activo,182,81.82,Nodo B|Nodo D
+11,Nodo D,Inactivo,193,81.82,Nodo C|Nodo E
+11,Nodo E,Activo,176,100.0,Nodo F
+11,Nodo F,Activo,189,90.91,Nodo E|Nodo A
+12,Nodo A,Inactivo,53,75.0,Nodo B|Nodo F
+12,Nodo B,Activo,281,50.0,Nodo C
+12,Nodo C,Inactivo,267,75.0,Nodo B
+12,Nodo D,Activo,155,83.33,Nodo E
+12,Nodo E,Activo,188,100.0,Nodo D|Nodo F
+12,Nodo F,Activo,131,91.67,Nodo E
+13,Nodo A,Inactivo,96,69.23,Nodo B|Nodo F
+13,Nodo B,Inactivo,110,46.15,
+13,Nodo C,Inactivo,245,69.23,Nodo D
+13,Nodo D,Activo,106,84.62,Nodo E
+13,Nodo E,Activo,175,100.0,Nodo D|Nodo F
+13,Nodo F,Activo,227,92.31,Nodo E
+14,Nodo A,Activo,65,71.43,Nodo F
+14,Nodo B,Inactivo,164,42.86,Nodo A
+14,Nodo C,Inactivo,205,64.29,Nodo D
+14,Nodo D,Activo,217,85.71,Nodo E
+14,Nodo E,Activo,237,100.0,Nodo D|Nodo F
+14,Nodo F,Activo,107,92.86,Nodo E|Nodo A
+15,Nodo A,Activo,77,73.33,Nodo F
+15,Nodo B,Inactivo,287,40.0,Nodo A
+15,Nodo C,Activo,245,66.67,Nodo D
+15,Nodo D,Activo,140,86.67,Nodo C|Nodo E
+15,Nodo E,Activo,257,100.0,Nodo D|Nodo F
+15,Nodo F,Activo,105,93.33,Nodo E|Nodo A
+16,Nodo A,Activo,38,75.0,Nodo F
+16,Nodo B,Inactivo,159,37.5,Nodo A|Nodo C
+16,Nodo C,Activo,204,68.75,Nodo D
+16,Nodo D,Activo,204,87.5,Nodo C|Nodo E
+16,Nodo E,Activo,123,100.0,Nodo D|Nodo F
+16,Nodo F,Activo,256,93.75,Nodo E|Nodo A
+17,Nodo A,Activo,26,76.47,Nodo F
+17,Nodo B,Inactivo,137,35.29,Nodo A|Nodo C
+17,Nodo C,Activo,275,70.59,Nodo D
+17,Nodo D,Activo,266,88.24,Nodo C|Nodo E
+17,Nodo E,Activo,122,100.0,Nodo D|Nodo F
+17,Nodo F,Activo,178,94.12,Nodo E|Nodo A
+18,Nodo A,Inactivo,72,72.22,Nodo F
+18,Nodo B,Inactivo,237,33.33,Nodo C
+18,Nodo C,Activo,173,72.22,Nodo D
+19,Nodo A,Activo,70,73.68,Nodo F
+18,Nodo D,Activo,154,88.89,Nodo C|Nodo E
+19,Nodo B,Activo,153,36.84,Nodo A|Nodo C
+18,Nodo E,Activo,223,100.0,Nodo D|Nodo F
+19,Nodo C,Inactivo,263,68.42,Nodo B|Nodo D
+18,Nodo F,Activo,244,94.44,Nodo E|Nodo A
+19,Nodo D,Activo,194,89.47,Nodo E
+20,Nodo A,Activo,89,75.0,Nodo B|Nodo F
+19,Nodo E,Activo,298,100.0,Nodo D|Nodo F
+20,Nodo B,Inactivo,271,35.0,Nodo A
+19,Nodo F,Activo,230,94.74,Nodo E|Nodo A
+20,Nodo C,Inactivo,197,65.0,Nodo D
+20,Nodo D,Activo,293,90.0,Nodo E
+20,Nodo E,Activo,183,100.0,Nodo D|Nodo F
+20,Nodo F,Activo,170,95.0,Nodo E|Nodo A
+21,Nodo A,Activo,35,76.19,Nodo F
+21,Nodo B,Inactivo,209,33.33,Nodo A
+21,Nodo C,Activo,245,66.67,Nodo D
+21,Nodo D,Activo,115,90.48,Nodo C|Nodo E
+22,Nodo A,Activo,57,78.26,Nodo F
+21,Nodo E,Activo,273,100.0,Nodo D|Nodo F
+23,Nodo A,Activo,57,78.26,Nodo F
+22,Nodo B,Inactivo,299,31.82,Nodo A|Nodo C
+21,Nodo F,Activo,232,95.24,Nodo E|Nodo A
+22,Nodo C,Activo,280,68.18,Nodo D
+23,Nodo B,Inactivo,147,30.43,Nodo A|Nodo C
+24,Nodo A,Activo,24,79.17,Nodo F
+22,Nodo D,Activo,132,90.91,Nodo C|Nodo E
+24,Nodo B,Activo,273,33.33,Nodo A|Nodo C
+23,Nodo C,Activo,260,70.83,Nodo B|Nodo D
+24,Nodo C,Activo,260,70.83,Nodo B|Nodo D
+22,Nodo E,Activo,270,100.0,Nodo D|Nodo F
+23,Nodo D,Activo,198,91.67,Nodo C|Nodo E
+24,Nodo D,Activo,198,91.67,Nodo C|Nodo E
+22,Nodo F,Activo,238,95.45,Nodo E|Nodo A
+23,Nodo E,Activo,105,100.0,Nodo D|Nodo F
+24,Nodo E,Activo,105,100.0,Nodo D|Nodo F
+23,Nodo F,Inactivo,278,91.67,Nodo E|Nodo A
+24,Nodo F,Inactivo,278,91.67,Nodo E|Nodo A
+25,Nodo A,Activo,86,80.0,Nodo B
+25,Nodo B,Activo,148,36.0,Nodo A|Nodo C
+25,Nodo C,Activo,173,72.0,Nodo B|Nodo D
+25,Nodo D,Activo,138,92.0,Nodo C|Nodo E
+25,Nodo E,Inactivo,188,96.0,Nodo D
+25,Nodo F,Inactivo,166,88.0,Nodo A
+1,Nodo A,Activo,90,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,240,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,229,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,186,100.0,Nodo C|Nodo E
+1,Nodo E,Inactivo,275,0.0,Nodo D|Nodo F
+1,Nodo F,Activo,203,100.0,Nodo A
+2,Nodo A,Inactivo,66,50.0,Nodo B|Nodo F
+2,Nodo B,Activo,270,100.0,Nodo C
+2,Nodo C,Activo,253,100.0,Nodo B|Nodo D
+2,Nodo D,Activo,277,100.0,Nodo C
+2,Nodo E,Inactivo,121,0.0,Nodo D|Nodo F
+2,Nodo F,Activo,299,100.0,
+3,Nodo A,Inactivo,24,33.33,Nodo B|Nodo F
+3,Nodo B,Activo,200,100.0,Nodo C
+3,Nodo C,Activo,112,100.0,Nodo B|Nodo D
+3,Nodo D,Activo,117,100.0,Nodo C
+3,Nodo E,Activo,228,33.33,Nodo D|Nodo F
+3,Nodo F,Activo,139,100.0,Nodo E
+4,Nodo A,Activo,39,50.0,Nodo B|Nodo F
+4,Nodo B,Activo,203,100.0,Nodo A|Nodo C
+4,Nodo C,Activo,142,100.0,Nodo B|Nodo D
+4,Nodo D,Activo,212,100.0,Nodo C|Nodo E
+4,Nodo E,Activo,186,50.0,Nodo D|Nodo F
+4,Nodo F,Activo,120,100.0,Nodo E|Nodo A
+5,Nodo A,Activo,63,60.0,Nodo B|Nodo F
+5,Nodo B,Activo,263,100.0,Nodo A|Nodo C
+5,Nodo C,Activo,145,100.0,Nodo B|Nodo D
+5,Nodo D,Activo,179,100.0,Nodo C|Nodo E
+5,Nodo E,Activo,121,60.0,Nodo D|Nodo F
+5,Nodo F,Activo,107,100.0,Nodo E|Nodo A
+6,Nodo A,Activo,79,66.67,Nodo B|Nodo F
+6,Nodo B,Activo,275,100.0,Nodo A|Nodo C
+6,Nodo C,Activo,230,100.0,Nodo B|Nodo D
+6,Nodo D,Activo,297,100.0,Nodo C|Nodo E
+6,Nodo E,Activo,290,66.67,Nodo D|Nodo F
+6,Nodo F,Activo,165,100.0,Nodo E|Nodo A
+1,Nodo A,Activo,89,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,262,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,259,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,220,100.0,Nodo C|Nodo E
+1,Nodo E,Inactivo,109,0.0,Nodo D|Nodo F
+1,Nodo F,Inactivo,180,0.0,Nodo A
+2,Nodo A,Activo,23,100.0,Nodo B
+2,Nodo B,Activo,210,100.0,Nodo A|Nodo C
+2,Nodo C,Activo,112,100.0,Nodo B|Nodo D
+2,Nodo D,Activo,124,100.0,Nodo C
+2,Nodo E,Inactivo,245,0.0,Nodo D
+2,Nodo F,Inactivo,141,0.0,Nodo A
+3,Nodo A,Activo,87,100.0,Nodo B
+3,Nodo B,Activo,267,100.0,Nodo A|Nodo C
+3,Nodo C,Activo,164,100.0,Nodo B|Nodo D
+3,Nodo D,Activo,103,100.0,Nodo C
+3,Nodo E,Activo,300,33.33,Nodo D
+3,Nodo F,Inactivo,277,0.0,Nodo E|Nodo A
+4,Nodo A,Activo,73,100.0,Nodo B
+4,Nodo B,Activo,237,100.0,Nodo A|Nodo C
+4,Nodo C,Activo,190,100.0,Nodo B|Nodo D
+4,Nodo D,Activo,210,100.0,Nodo C|Nodo E
+4,Nodo E,Activo,250,50.0,Nodo D
+4,Nodo F,Activo,252,25.0,Nodo E|Nodo A
+5,Nodo A,Activo,79,100.0,Nodo B|Nodo F
+5,Nodo B,Activo,250,100.0,Nodo A|Nodo C
+5,Nodo C,Activo,262,100.0,Nodo B|Nodo D
+5,Nodo D,Inactivo,277,80.0,Nodo C|Nodo E
+5,Nodo E,Activo,138,60.0,Nodo F
+5,Nodo F,Activo,127,40.0,Nodo E|Nodo A
+6,Nodo A,Activo,65,100.0,Nodo B|Nodo F
+6,Nodo B,Activo,110,100.0,Nodo A|Nodo C
+6,Nodo C,Activo,295,100.0,Nodo B
+6,Nodo D,Activo,293,83.33,Nodo C|Nodo E
+6,Nodo E,Inactivo,216,50.0,Nodo D|Nodo F
+6,Nodo F,Activo,266,50.0,Nodo A
+7,Nodo A,Activo,37,100.0,Nodo B|Nodo F
+7,Nodo B,Activo,262,100.0,Nodo A|Nodo C
+7,Nodo C,Activo,288,100.0,Nodo B|Nodo D
+7,Nodo D,Activo,196,85.71,Nodo C
+7,Nodo E,Inactivo,150,42.86,Nodo D|Nodo F
+7,Nodo F,Inactivo,296,42.86,Nodo A
+8,Nodo A,Activo,87,100.0,Nodo B
+8,Nodo B,Activo,242,100.0,Nodo A|Nodo C
+8,Nodo C,Inactivo,238,87.5,Nodo B|Nodo D
+8,Nodo D,Activo,213,87.5,
+8,Nodo E,Inactivo,191,37.5,Nodo D
+8,Nodo F,Activo,208,50.0,Nodo A
+9,Nodo A,Activo,44,100.0,Nodo B|Nodo F
+9,Nodo B,Activo,254,100.0,Nodo A
+9,Nodo C,Inactivo,280,77.78,Nodo B|Nodo D
+9,Nodo D,Inactivo,270,77.78,
+9,Nodo E,Inactivo,119,33.33,Nodo F
+9,Nodo F,Activo,137,55.56,Nodo A
+10,Nodo A,Activo,89,100.0,Nodo B|Nodo F
+10,Nodo B,Activo,140,100.0,Nodo A
+10,Nodo C,Inactivo,178,70.0,Nodo B
+10,Nodo D,Inactivo,140,70.0,
+10,Nodo E,Activo,204,40.0,Nodo F
+10,Nodo F,Activo,224,60.0,Nodo E|Nodo A
+11,Nodo A,Activo,99,100.0,Nodo B|Nodo F
+11,Nodo B,Activo,159,100.0,Nodo A
+11,Nodo C,Inactivo,148,63.64,Nodo B
+11,Nodo D,Inactivo,226,63.64,Nodo E
+11,Nodo E,Activo,285,45.45,Nodo F
+11,Nodo F,Activo,168,63.64,Nodo E|Nodo A
+1,Nodo A,Inactivo,43,0.0,Nodo B|Nodo F
+1,Nodo B,Activo,252,100.0,Nodo C
+1,Nodo C,Activo,208,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,187,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,113,100.0,Nodo D|Nodo F
+1,Nodo F,Inactivo,245,0.0,Nodo E
+2,Nodo A,Inactivo,40,0.0,Nodo B
+2,Nodo B,Activo,121,100.0,Nodo C
+2,Nodo C,Activo,167,100.0,Nodo B|Nodo D
+2,Nodo D,Inactivo,154,50.0,Nodo C|Nodo E
+2,Nodo E,Activo,216,100.0,
+2,Nodo F,Inactivo,180,0.0,Nodo E
+3,Nodo A,Inactivo,99,0.0,Nodo B
+3,Nodo B,Activo,253,100.0,Nodo C
+3,Nodo C,Activo,107,100.0,Nodo B
+3,Nodo D,Inactivo,290,33.33,Nodo C|Nodo E
+3,Nodo E,Activo,189,100.0,
+3,Nodo F,Activo,209,33.33,Nodo E
+4,Nodo A,Activo,64,25.0,Nodo B|Nodo F
+4,Nodo B,Activo,287,100.0,Nodo A|Nodo C
+4,Nodo C,Activo,216,100.0,Nodo B
+4,Nodo D,Inactivo,119,25.0,Nodo C|Nodo E
+4,Nodo E,Activo,122,100.0,Nodo F
+4,Nodo F,Activo,240,50.0,Nodo E|Nodo A
+1,Nodo A,Activo,73,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,139,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,133,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,112,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,184,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,121,100.0,Nodo E|Nodo A
+2,Nodo A,Activo,46,100.0,Nodo B|Nodo F
+2,Nodo B,Activo,232,100.0,Nodo A|Nodo C
+2,Nodo C,Inactivo,291,50.0,Nodo B|Nodo D
+2,Nodo D,Activo,202,100.0,Nodo E
+2,Nodo E,Activo,247,100.0,Nodo D|Nodo F
+2,Nodo F,Activo,235,100.0,Nodo E|Nodo A
+3,Nodo A,Activo,32,100.0,Nodo B|Nodo F
+3,Nodo B,Activo,226,100.0,Nodo A
+3,Nodo C,Inactivo,261,33.33,Nodo B|Nodo D
+3,Nodo D,Activo,277,100.0,Nodo E
+3,Nodo E,Activo,193,100.0,Nodo D|Nodo F
+3,Nodo F,Activo,170,100.0,Nodo E|Nodo A
+4,Nodo A,Activo,22,100.0,Nodo B|Nodo F
+4,Nodo B,Inactivo,277,75.0,Nodo A
+4,Nodo C,Activo,138,50.0,Nodo D
+4,Nodo D,Activo,138,100.0,Nodo C|Nodo E
+4,Nodo E,Activo,211,100.0,Nodo D|Nodo F
+4,Nodo F,Activo,193,100.0,Nodo E|Nodo A
+5,Nodo A,Activo,81,100.0,Nodo F
+5,Nodo B,Activo,227,80.0,Nodo A|Nodo C
+5,Nodo C,Activo,167,60.0,Nodo B|Nodo D
+5,Nodo D,Inactivo,292,80.0,Nodo C|Nodo E
+5,Nodo E,Activo,216,100.0,Nodo F
+5,Nodo F,Activo,116,100.0,Nodo E|Nodo A
+6,Nodo A,Activo,51,100.0,Nodo B|Nodo F
+6,Nodo B,Activo,163,83.33,Nodo A|Nodo C
+6,Nodo C,Activo,180,66.67,Nodo B
+6,Nodo D,Inactivo,267,66.67,Nodo C|Nodo E
+6,Nodo E,Activo,248,100.0,Nodo F
+6,Nodo F,Activo,181,100.0,Nodo E|Nodo A
+7,Nodo A,Activo,34,100.0,Nodo B|Nodo F
+7,Nodo B,Activo,269,85.71,Nodo A|Nodo C
+7,Nodo C,Activo,297,71.43,Nodo B
+7,Nodo D,Activo,121,71.43,Nodo C|Nodo E
+7,Nodo E,Activo,101,100.0,Nodo D|Nodo F
+7,Nodo F,Activo,195,100.0,Nodo E|Nodo A
+8,Nodo A,Activo,39,100.0,Nodo B|Nodo F
+8,Nodo B,Activo,233,87.5,Nodo A|Nodo C
+8,Nodo C,Activo,266,75.0,Nodo B|Nodo D
+8,Nodo D,Activo,163,75.0,Nodo C|Nodo E
+8,Nodo E,Activo,209,100.0,Nodo D|Nodo F
+8,Nodo F,Activo,217,100.0,Nodo E|Nodo A
+1,Nodo A,Activo,40,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,116,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,277,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,152,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,294,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,108,100.0,Nodo E|Nodo A
+2,Nodo A,Activo,31,100.0,Nodo B|Nodo F
+2,Nodo B,Activo,255,100.0,Nodo A|Nodo C
+2,Nodo C,Activo,138,100.0,Nodo B|Nodo D
+2,Nodo D,Activo,170,100.0,Nodo C|Nodo E
+2,Nodo E,Inactivo,280,50.0,Nodo D|Nodo F
+2,Nodo F,Activo,219,100.0,Nodo A
+1,Nodo A,Activo,92,100.0,Nodo B|Nodo F
+1,Nodo B,Activo,209,100.0,Nodo A|Nodo C
+1,Nodo C,Activo,174,100.0,Nodo B|Nodo D
+1,Nodo D,Activo,217,100.0,Nodo C|Nodo E
+1,Nodo E,Activo,266,100.0,Nodo D|Nodo F
+1,Nodo F,Activo,249,100.0,Nodo E|Nodo A
+2,Nodo A,Activo,68,100.0,Nodo B|Nodo F
+2,Nodo B,Inactivo,199,50.0,Nodo A|Nodo C
+2,Nodo C,Inactivo,266,50.0,Nodo D
+2,Nodo D,Activo,140,100.0,Nodo E
+2,Nodo E,Activo,102,100.0,Nodo D|Nodo F
+2,Nodo F,Activo,262,100.0,Nodo E|Nodo A
+3,Nodo A,Activo,41,100.0,Nodo F
+3,Nodo B,Inactivo,155,33.33,Nodo A
+3,Nodo C,Inactivo,243,33.33,Nodo D
+3,Nodo D,Activo,188,100.0,Nodo E
+3,Nodo E,Activo,175,100.0,Nodo D|Nodo F
+3,Nodo F,Activo,100,100.0,Nodo E|Nodo A

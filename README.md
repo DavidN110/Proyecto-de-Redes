@@ -1,24 +1,27 @@
-
 # 🛰️ Prototipo de Red Rural Inteligente con IA
 
-Este proyecto simula una red de conectividad rural resiliente usando inteligencia artificial para predecir fallos y optimizar el mantenimiento. Incluye:
+Este proyecto simula una red de conectividad rural resiliente con ayuda de inteligencia artificial para predecir fallos y optimizar decisiones de mantenimiento. Incluye:
 
-- 🧠 IA con `RandomForestClassifier` entrenada con datos simulados
-- 📊 Interfaz de simulación de escritorio (`main_ia.py`)
-- 🌐 Aplicación web con Streamlit (`app.py`)
-- 📁 Exportación de datos a CSV, Excel y PDF
-- 🗺️ Visualización con NetworkX y mapas interactivos (Folium)
+- 🧠 IA con `RandomForestClassifier`
+- 🌐 Aplicación web interactiva con Streamlit (`app.py`)
+- 🗺️ Visualización geográfica con Folium
+- 📊 Gráficos comparativos por tecnología (WiFi vs LoRaWAN)
+- 📁 Exportación de datos y alertas automáticas por WhatsApp
 
 [![PDF](https://img.shields.io/badge/Informe-PDF-red)](/PROYECTO_REDES.pdf)
+
 ---
 
 ## 📦 Estructura del proyecto
 
 ```
 prototipo_red/
-├── main_ia.py         # Versión escritorio con Tkinter
-├── app.py             # Versión web con Streamlit
-├── recursos/          # Archivos generados automáticamente
+├── app.py                  # Aplicación web con Streamlit
+├── iniciar_app.bat         # Lanza la app con doble clic
+├── instalador.exe          # Ejecutable que instala las dependencias
+├── requirements.txt        # Lista de dependencias
+├── README.md
+├── recursos/               # Archivos generados automáticamente
 │   ├── dataset_ia.csv
 │   ├── modelo_entrenado.pkl
 │   ├── registro_red.csv
@@ -28,48 +31,30 @@ prototipo_red/
 
 ---
 
-## 🚀 Requisitos
+## 🚀 Instalación y uso
 
-Instala las dependencias con:
+1. 📥 **Clona o descarga** este repositorio completo.
+2. ⚙️ Ejecuta `instalador.exe` para instalar automáticamente todas las dependencias necesarias.
+3. ▶️ Haz doble clic en `iniciar_app.bat` para abrir la aplicación en tu navegador.
 
-```bash
-pip install pandas openpyxl matplotlib fpdf folium networkx scikit-learn streamlit streamlit-folium joblib
-```
+La aplicación se abrirá en: [http://localhost:8501](http://localhost:8501)
 
----
-
-## 🧪 Ejecutar simulación de escritorio
-
-```bash
-python main_ia.py
-```
-
----
-
-## 🌐 Ejecutar la versión web
-
-```bash
-python -m streamlit run app.py
-```
-
-Luego abre el navegador en: http://localhost:8501
-(Generalmente es automático)
 ---
 
 ## 💡 Funcionalidades destacadas
 
-- Simulación de nodos con fallos aleatorios
-- Predicción de fallos usando IA
-- Registro de cada ciclo en CSV y Excel
-- Informe PDF automatizado
+- Simulación de nodos WiFi y LoRaWAN con fallos aleatorios
+- Predicción de fallos con IA
 - Mapa interactivo con estado de nodos
-- Visualización web con alertas y gráficos
+- Alertas por WhatsApp con pywhatkit
+- Gráficos comparativos e históricos
+- Exportación de resultados a CSV y Excel
 
 ---
 
-## ✉️ Notificaciones
+## 📲 Notificaciones automáticas
 
-La versión de escritorio incluye alertas por correo cuando un nodo queda completamente aislado (requiere configurar `EMAIL_REMITENTE` y clave de aplicación).
+Después de cada simulación de ciclo, se programa el envío automático del estado de los nodos por WhatsApp (requiere tener WhatsApp Web abierto y escaneado).
 
 ---
 

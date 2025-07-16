@@ -1,10 +1,12 @@
 pandas
-joblib
-scikit-learn
-matplotlib
-folium
 openpyxl
+matplotlib
+seaborn
 fpdf
+folium
+networkx
+scikit-learn
 streamlit
 streamlit-folium
-networkx
+joblib
+pywhatkit
